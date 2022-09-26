@@ -1,3 +1,9 @@
+***SuperUserInfoForTestingAddingProducts*** 
+___
+
+userName: potato
+password: 123
+
 ***Introduction*** 
 
 
